@@ -8,7 +8,3 @@ Generating summaries of scientific documents is known to be a challenging task. 
 
 
 More information coming soon
-
-
-
-https://sdproc.org/2022/
